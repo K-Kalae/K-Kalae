@@ -1,8 +1,8 @@
-## Hi, i'm Kalae 👋
+## Hi, I'm Kalae 👋
 
-Electrical and electronics engineer
-I'm learning a lot of things at the same time
-Currently interested in AI, ML and Cryptography
+Electrical and electronics engineer </br>
+I'm learning a lot of things at the same time </br>
+Currently interested in AI, ML and Cryptography </br>
 
 
 ## 🌐 Socials:

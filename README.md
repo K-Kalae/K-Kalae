@@ -2,7 +2,7 @@
 
 Electrical and electronics engineer </br>
 I'm learning a lot of things at the same time </br>
-Currently interested in AI, ML and Cryptography </br>
+Currently interested in </br>
 
 
 ## 🌐 Socials:
